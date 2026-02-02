@@ -1,4 +1,4 @@
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR0MmhvYjJwY2duN2w2cDVvNndhZW13bjdodDRxczN3c25xcDRrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>Bienvenidos al GitHub de JmmA Coders
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR0MmhvYjJwY2duN2w2cDVvNndhZW13bjdodDRxczN3c25xcDRrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>Bienvenidos al GitHub de JmmA Coders
 
 ![Banner de JmmA Coders](github-header-banner.png)
 
